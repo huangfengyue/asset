@@ -63,7 +63,7 @@ class AssetController extends BaseController
       //  $password = Hash::make('toptal');$_COOKIE["user_auth"]
        // Cookie::delete("user_auth");
        echo "<pre>";
-        print_r(11); echo "</pre>";
+        print_r(22); echo "</pre>";
         exit;
       //  $re = $this->RedisService->set("cacheApply:".$apply_id,$data,3600);
       //  $data1 = $this->RedisService->get("cacheApply:".$apply_id);
